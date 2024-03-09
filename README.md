@@ -5,7 +5,7 @@
 
 | タイトル | ファイル | 内容 | Colab | 技術記事リンク |
 | --- | --- | --- | --- | --- |
-| 文章ベクトルの分布を可視化 | [umap_sentence_vector.ipynb](./umap_sentence_vector.ipynb) | livedoor ニュースコーパスをUMAPで可視化する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsutof/nlp-notebooks/blob/main/umap_sentence_vector.ipynb) | |
+| 文章ベクトルの分布を可視化 | [umap_sentence_vector.ipynb](./umap_sentence_vector.ipynb) | livedoor ニュースコーパスを使って、文章ベクトルの分布をUMAPで可視化する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsutof/nlp-notebooks/blob/main/umap_sentence_vector.ipynb) | |
 
 ## ローカルで実行する方法
 
