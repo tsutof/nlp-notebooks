@@ -3,9 +3,9 @@
 
 ## 公開中のノートブック
 
-| タイトル | ファイル | 内容 | Google Colab | 技術記事リンク |
-| --- | --- | --- | --- | --- |
-| 文章ベクトルの可視化 | [umap_sentence_vector.ipynb](./umap_sentence_vector.ipynb) | livedoorニュースコーパスの文章ベクトルをUMAPで可視化する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsutof/nlp-notebooks/blob/main/umap_sentence_vector.ipynb) | |
+| タイトル | ファイル | Google Colab | 技術記事リンク |
+| --- | --- | --- | --- |
+| livedoorニュースコーパスの文章ベクトルをUMAPで可視化する | [umap_sentence_vector.ipynb](./umap_sentence_vector.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsutof/nlp-notebooks/blob/main/umap_sentence_vector.ipynb) | |
 
 ## ローカルで実行する方法
 
