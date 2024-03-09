@@ -7,3 +7,17 @@
 | --- | --- | --- | --- | --- |
 | 文章ベクトルの可視化 | [umap_sentence_vector.ipynb](./umap_sentence_vector.ipynb) | livedoor ニュースコーパスをUMAPで可視化する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsutof/nlp-notebooks/blob/main/umap_sentence_vector.ipynb) | |
 
+## ローカルで実行する方法
+
+```
+conda create --name nlp-notebooks python=3.10 --yes && \
+conda activate nlp-notebooks
+```
+
+```
+python -m pip install jupyterlab ipywidgets
+```
+
+```
+jupyter lab
+```
