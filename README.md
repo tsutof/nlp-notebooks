@@ -15,7 +15,8 @@ conda activate nlp-notebooks
 ```
 
 ```
-python -m pip install jupyterlab ipywidgets
+python -m pip install --upgrade pip && \
+python -m pip install --no-cache-dir --upgrade jupyterlab ipywidgets
 ```
 
 ```
