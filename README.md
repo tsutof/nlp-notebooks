@@ -5,7 +5,7 @@
 
 | タイトル | ファイル | Google Colab | 技術記事リンク |
 | --- | --- | --- | --- |
-| 文章埋め込み表現をUMAPで可視化する | [umap_sentence_vector.ipynb](./umap_sentence_vector.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsutof/nlp-notebooks/blob/main/umap_sentence_vector.ipynb) | |
+| 文章埋め込み表現をUMAPで可視化する | [umap_sentence_vector.ipynb](./umap_sentence_vector.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsutof/nlp-notebooks/blob/main/umap_sentence_vector.ipynb) | [Zenn記事](https://zenn.dev/tsutof/articles/c6deea62e41dad) |
 
 ## ローカルで実行する方法
 
