@@ -9,21 +9,27 @@
 
 ## ローカルで実行する方法
 
-```
-git clone https://github.com/tsutof/nlp-notebooks
-cd nlp-notebooks
-```
+1. 本リポジトリをクローン
+    ```
+    git clone https://github.com/tsutof/nlp-notebooks
+    cd nlp-notebooks
+    ```
 
-```
-conda create --name nlp-notebooks python=3.10 --yes && \
-conda activate nlp-notebooks
-```
+1. 必要により、Pythonの仮想環境を用意
+    ```
+    conda create --name nlp-notebooks python=3.10 --yes && \
+    conda activate nlp-notebooks
+    ```
 
-```
-python -m pip install --upgrade pip && \
-python -m pip install --no-cache-dir --upgrade jupyterlab ipywidgets
-```
+1. JupyterLabをインストール
+    ```
+    python -m pip install --upgrade pip && \
+    python -m pip install --no-cache-dir --upgrade jupyterlab ipywidgets
+    ```
 
-```
-jupyter lab
-```
+1. JupyterLabを起動
+    ```
+    jupyter lab
+    ```
+
+以上。
