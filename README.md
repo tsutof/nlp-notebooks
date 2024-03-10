@@ -10,6 +10,11 @@
 ## ローカルで実行する方法
 
 ```
+git clone https://github.com/tsutof/nlp-notebooks
+cd nlp-notebooks
+```
+
+```
 conda create --name nlp-notebooks python=3.10 --yes && \
 conda activate nlp-notebooks
 ```
